@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ist Wulff noch Bundespräsident?</title>
+    <link>http://ist-wulff-noch-bundespraesident.de</link>
+    <description>Ist Wulff noch Bundespräsident?</description>
+    <language>de-DE</language>
+
+    <item>
+      <title>Ja.</title>
+      <guid isPermaLink="false">bfbb2924-9ca2-4d3c-a01d-f673d424e489</guid>
+      <pubDate>Sat, 17 Dec 2011 19:10:04 -0000</pubDate>
+    </item>
+
+  <!--
+    <item>
+      <title>Nein!</title>
+      <guid isPermaLink="false">ed56579a-70ee-41bd-a220-da98a3ab7b04</guid>
+      <pubDate>Sun, 18 Dec 2011 19:10:04 -0000</pubDate>
+    </item>
+  -->
+  </channel>
+</rss>
