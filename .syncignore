@@ -1,0 +1,5 @@
+.git/*
+logs/*
+sync.sh
+.syncignore
+README
