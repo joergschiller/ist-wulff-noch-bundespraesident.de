@@ -3,3 +3,8 @@ logs/*
 sync.sh
 .syncignore
 README
+.bundle/*
+vendor/*
+Gemfile
+Gemfile.lock
+.gitignore

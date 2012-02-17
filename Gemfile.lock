@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    request-log-analyzer (1.11.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  request-log-analyzer
